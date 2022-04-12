@@ -1,3 +1,6 @@
+REMARK 3 Tollefson et al. 2022
+REMARK 3 OtoProtein-V2 model predicted with AlphaFold2 and refined with Force Field X.
+REMARK 3 MOLPROBITY SCORE: 1.96
 ATOM      1  N   MET A   1     -11.761  37.343 -10.879  1.00 59.38           N 0
 ATOM      2  CA  MET A   1     -10.672  36.408 -11.175  1.00 59.38           C 0
 ATOM      3  C   MET A   1     -10.941  35.741 -12.531  1.00 59.38           C 0
